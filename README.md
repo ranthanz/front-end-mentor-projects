@@ -1,9 +1,8 @@
 # WebDevJourney-FrontEndMentor
 ## Welcome to my FrontEndMentor Solutions!
 
-    You will find all my solutions for FrontEndMentor Challenges along with my insights, though process, and (maybe) tips here. 
-
-    Have a look on the links below for the deployed solutions:
+> You will find all my solutions for FrontEndMentor Challenges along with my insights, though process, and (maybe) tips here. 
+> Have a look on the links below for the deployed solutions:
 
 #
 
