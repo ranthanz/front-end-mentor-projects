@@ -30,8 +30,8 @@ This is a solution to the [Product preview card component challenge on Frontend 
 
 ### Links
 
-- Solution URL: https://github.com/raszpberry/FrontEndMentor-1
-- Live Site URL: https://raszpberry.github.io/FrontEndMentor-1/
+- Solution URL: https://github.com/raszpberry/front-end-mentor-projects/tree/main/FrontEndMentor-1
+- Live Site URL: https://fem-challenge-product-preview-card.netlify.app/
 - Watch me do this in timelapse at: https://youtu.be/wMFOdPcVdps
 
 ## My process

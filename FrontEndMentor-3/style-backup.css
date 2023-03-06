@@ -339,24 +339,4 @@ nav > div button {
     color: var(--dark-grayish-blue);
     width: 15rem;
   }
-  /* 
-  
-  .headline-text-content {
-    margin: 1rem auto;
-    display: flex;
-  }
-  .headline-text-content > h1 {
-    width: 30rem;
-    margin: 1.5rem;
-    border: 1px solid red;
-    font-size: 3.5rem;
-    line-height: 3.5rem;
-  }
-  .headline-text-content > div {
-    width: 36rem;
-    border: 1px solid red;
-    margin-left: 3rem;
-    margin-right: 1rem;
-  }
-   */
 }
