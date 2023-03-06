@@ -2,7 +2,7 @@
 
 ## Frontend Mentor - News homepage solution
 
-This is a solution to the [Product preview card component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/product-preview-card-component-GO7UmttRfa). Frontend Mentor challenges help you improve your coding skills by building realistic projects.lenge, you need a good understanding of HTML and CSS.**
+This is a solution to the [News homepage challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/news-homepage-H6SWTa1MFl/hub). Frontend Mentor challenges help you improve your coding skills by building realistic projects.lenge, you need a good understanding of HTML and CSS.**
 
 ## Table of contents
 - [Overview](#overview)
