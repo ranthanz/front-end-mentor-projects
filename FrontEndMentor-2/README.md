@@ -21,8 +21,8 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 
 ### Links
 
-- Solution URL: https://github.com/raszpberry/FrontEndMentor-2
-- Live Site URL: https://raszpberry.github.io/FrontEndMentor-2/
+- Solution URL: https://github.com/raszpberry/front-end-mentor-projects/tree/main/FrontEndMentor-2
+- Live Site URL: https://fem-challenge-qr-code-component.netlify.app/
 - Watch me do this in timelapse at: https://youtu.be/Fivu6dhUp6E
 
 # My process
